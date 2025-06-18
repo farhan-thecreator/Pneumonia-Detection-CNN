@@ -39,7 +39,7 @@ This project focuses on using deep learning for detecting Pneumonia from chest X
 
 - **Overall Accuracy:** 58%
 - **Confusion Matrix:**  
-  ![Confusion Matrix](images/confusion_matrix.png)
+  ![Confusion Matrix](images/matrix.png)
 
 > The model performs significantly better on detecting Pneumonia but struggles with "Normal" due to class imbalance.
 
