@@ -4,9 +4,11 @@ A CNN model for classifying chest X-rays into Normal and Pneumonia categories.
 # Pneumonia Detection using Chest X-rays (CNN)
 
 This project focuses on using deep learning for detecting Pneumonia from chest X-ray images. It involves training a Convolutional Neural Network (CNN) on a labeled dataset to classify images as either “Pneumonia” or “Normal”.
+---
+
 ![Normal Lungs](images/lungs1.png)
 ![Pneumonia Lungs X-ray](images/lungs2.png)
----
+
 
 ## Dataset
 
